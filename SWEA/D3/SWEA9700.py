@@ -1,6 +1,3 @@
-import sys
-sys.stdin = open('SWEA9700.txt')
-
 for t in range(1, int(input()) + 1):
     p, q = map(float, input().split())
     s1 = s2 = 0
